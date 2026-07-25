@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://muhammethemrayev711-crypto.github.io/sitemap.xml
